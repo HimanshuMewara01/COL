@@ -1,0 +1,36 @@
+{
+  "name": "",
+  "css_prefix_text": "icon-",
+  "css_use_suffix": false,
+  "hinting": true,
+  "units_per_em": 1000,
+  "ascent": 850,
+  "glyphs": [
+    {
+      "uid": "22cfc7af2c4f158b37317c65c92b48c2",
+      "css": "location",
+      "code": 59392,
+      "src": "elusive"
+    },
+    {
+      "uid": "ccc2329632396dc096bb638d4b46fb98",
+      "css": "mail-alt",
+      "code": 61664,
+      "src": "fontawesome"
+    },
+    {
+      "uid": "7f31ff70d976d8485840fcf510857a0c",
+      "css": "location-dot-solid",
+      "code": 59392,
+      "src": "custom_icons",
+      "selected": false,
+      "svg": {
+        "path": "M421.3 975C521.5 849.6 750 545.7 750 375 750 168 582 0 375 0S0 168 0 375C0 545.7 228.5 849.6 328.7 975 352.7 1004.9 397.3 1004.9 421.3 975ZM375 250A125 125 0 1 1 375 500 125 125 0 1 1 375 250Z",
+        "width": 750
+      },
+      "search": [
+        "location-dot-solid"
+      ]
+    }
+  ]
+}

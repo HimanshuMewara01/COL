@@ -1,0 +1,38 @@
+{
+  "name": "",
+  "css_prefix_text": "icon-",
+  "css_use_suffix": false,
+  "hinting": true,
+  "units_per_em": 1000,
+  "ascent": 850,
+  "glyphs": [
+    {
+      "uid": "b31f5864f9d893651b708d2d3ef7761b",
+      "css": "envelope-solid",
+      "code": 59393,
+      "src": "custom_icons",
+      "selected": true,
+      "svg": {
+        "path": "M93.8 125C42 125 0 167 0 218.8 0 248.2 13.9 276 37.5 293.8L462.5 612.5C484.8 629.1 515.2 629.1 537.5 612.5L962.5 293.8C986.1 276 1000 248.2 1000 218.8 1000 167 958 125 906.3 125H93.8ZM0 343.8V750C0 818.9 56.1 875 125 875H875C943.9 875 1000 818.9 1000 750V343.8L575 662.5C530.5 695.9 469.5 695.9 425 662.5L0 343.8Z",
+        "width": 1000
+      },
+      "search": [
+        "envelope-solid"
+      ]
+    },
+    {
+      "uid": "7f31ff70d976d8485840fcf510857a0c",
+      "css": "location-dot-solid",
+      "code": 59392,
+      "src": "custom_icons",
+      "selected": false,
+      "svg": {
+        "path": "M421.3 975C521.5 849.6 750 545.7 750 375 750 168 582 0 375 0S0 168 0 375C0 545.7 228.5 849.6 328.7 975 352.7 1004.9 397.3 1004.9 421.3 975ZM375 250A125 125 0 1 1 375 500 125 125 0 1 1 375 250Z",
+        "width": 750
+      },
+      "search": [
+        "location-dot-solid"
+      ]
+    }
+  ]
+}
